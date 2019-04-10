@@ -1,0 +1,156 @@
+/* start body */
+body{
+    color: chocolate ;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 10px;
+    padding: 10px;
+}
+/* end body */
+
+/* start heading */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    letter-spacing: 1px
+}
+/* end heading */
+
+.bg-blanchedalmond  {
+    background-color: blanchedalmond ; 
+}
+.bg-skyblue  {
+    background-color: skyblue ; 
+}
+.bg-brown {
+    background-color: brown
+}
+
+/* start container */
+.container {
+    margin: 30px auto;
+    overflow: auto;
+    width: 100% ;
+}
+/* end container */
+
+/* start logo */
+.logo {
+    text-align: center ;
+}
+/* end logo */
+
+/* start menu primer*/
+.menu-primer ul {
+    background-color: brown;
+    border-radius: 4px;
+}
+.menu-primer li {
+    border-right: 2px solid pink ;
+    display: inline-block ;
+    margin: 0 - 4px ;
+}
+.menu-primer a {
+    color: bisque;
+    font-size: 14px;
+    display: inline-block;
+    letter-spacing: 1px; 
+    padding: 30px 40px;
+    text-transform: uppercase;
+}
+.menu-primer a:hover {
+    background-color: peru;
+    color: aquamarine;
+}
+.menu-primer .active {
+    background-color: peru;
+    color: aquamarine;
+}
+/* end menu primer*/
+
+/* end menu primer*/
+
+/* start heading */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+h1{
+    font-size: 28px;
+}
+h2{
+    font-size: 24px;
+}h3{
+    font-size: 18px;
+}h4{
+    font-size: 16px;
+}h5{
+    font-size: 14px;
+}h6{
+    font-size: 13px;
+}
+/* end heading */
+
+/* start jumbotron */
+.jumbotron {
+    background: peachpuff;
+    border: 1px solid azure;
+    border-radius: 4px;
+    padding: 20px 0;
+}
+.jumbotron h1 {
+    font-size: 32px;
+    padding: 0 20px;
+}
+.jumbotron h3 {
+    font-size: 20px;
+    padding: 0 20px;
+}
+/* end jumbotron */
+
+/* start main */
+.main-home-one{
+    width: 60%;
+}
+.main-home-two {
+    width: 60%;
+}
+.main-home-one .box-isi,
+.main-home-two .box-isi {
+    height: 140px;
+}
+/* end main /*
+
+/* start box */
+.box-heading {
+    background-color: peachpuff;
+    border: 1px solid peru;
+    border-radius: 3px 3px 0 0 ; 
+    margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.box-heading h4 {
+    font-size: 14px;
+    margin: 0px
+}
+.box-isi {
+    background-color: papayawhip;
+    border: 1px solid peru;
+    border-top: 3px 3px 0 0 ; 
+    margin: 0;
+    padding: 1px 20px;
+
+}
+
+.box-isiisi {
+    background-color: papayawhip;
+    border: 1px solid peru;
+    border-top: 3px 3px 0 0 ; 
+    margin: 0;
+    padding: 10px 20px;
+    height: 500px;
+
+}]
+/* end box  */
+
